@@ -1,6 +1,6 @@
 # MyBookList-App
 
-MyBookList App is a JavaScript application that allows users to add and remove books from the book list. The books are stored in the browser's local storage, ensuring that the list persists even after closing the application.
+MyBookList App is a user-friendly JavaScript application designed to help you manage your book collection. Users can easily add books by entering the title, author, and ISBN. The application also allows users to remove books from the list. All book data is stored in the browser's local storage, ensuring your book list is saved even after closing the application. This simple yet effective tool is perfect for keeping track of your reading list.
 
 ## Features
 
